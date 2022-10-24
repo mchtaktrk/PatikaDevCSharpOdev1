@@ -1,0 +1,8 @@
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\bin\Debug\PatikaDevHomework.exe.config
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\bin\Debug\PatikaDevHomework.exe
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\bin\Debug\PatikaDevHomework.pdb
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\obj\Debug\PatikaDevHomework.csproj.AssemblyReference.cache
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\obj\Debug\PatikaDevHomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\obj\Debug\PatikaDevHomework.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\obj\Debug\PatikaDevHomework.exe
+C:\Users\ASUS-PC\source\repos\PatikaDevHomework\PatikaDevHomework\obj\Debug\PatikaDevHomework.pdb
